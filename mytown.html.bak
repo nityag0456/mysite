@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>allaboutnitya</title>
+    <title>my town</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,11 +14,14 @@
       <p>&nbsp;<img src="images/penguin_logo.jpg" alt="penguin logo" id="logo"></p>
       <div id="tswcontent">
         <div id="tswcontproper">
-          <h1>All About Nitya</h1>
-          <p> Welcome to my website. I'm making this website as a part of a
-            computer science class. </p>
-          <p>Here, you can learn all about me, such as my town, my school, and
-            my interests. </p>
+          <h1>My Town: Westborough, MA</h1>
+          <p> Westborough, Massachusetts was established in 1717, making the
+            town 306 years old. Westborough has a lot of history, but I would
+            rather talk about my favorite things to do in this town. </p>
+          <p>&nbsp;<img src="images/westborough.jfif" alt="image of Westborough welcome sign"
+
+              id="logo"></p>
+          <p></p>
           <p> Have fun learning about me! </p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
