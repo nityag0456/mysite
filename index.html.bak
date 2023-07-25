@@ -27,11 +27,10 @@
           <!-- start of side column: insert your navigation menu, etc, here -->
           <div id="tswcssbuttons">
             <ul>
+              <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/index.html">Home</a></li>
               <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/mytown.html">My
                   Town</a></li>
-              <li><a href="http://www.all%20about%20nitya.com/sitemap.html">My
-                  Interests</a></li>
-              <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/index.html"></a><br>
+              <li><a href="random.com">My Interests</a><br>
               </li>
             </ul>
           </div>
@@ -46,5 +45,6 @@
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
+    
   </body>
 </html>

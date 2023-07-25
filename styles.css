@@ -4,6 +4,10 @@ img {
   height: auto;
 }
 
+body {
+  background-color: #f4c2c2;
+}
+
 input, select, button, textarea {
   max-width: 100%;
 }
@@ -60,8 +64,9 @@ div#tswfooter {
   color: black;
   background-color: #f4c2c2;
 }
-div#tswsidecol { 
-	background-color: #f4c2c2;
+
+div#tswsidecol {
+  background-color: #f4c2c2;
 }
 
 img {
@@ -70,8 +75,9 @@ img {
 
 #logo {
   display: block;
-  margin-left: auto;
+  margin-left: 1px;
   margin-right: auto;
+  margin-top: 1px;
 }
 
 body {

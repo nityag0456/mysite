@@ -21,8 +21,26 @@
           <p>&nbsp;<img src="images/westborough.jfif" alt="image of Westborough welcome sign"
 
               id="logo"></p>
-          <p></p>
-          <p> Have fun learning about me! </p>
+          <p><img src="images/sakehana.jpg" alt="image of sushi from Sake Hana"
+
+              id="logo" style="float: right; width: 157px; height: 107px; margin-left: 5px;">
+            One of my favorite <b>restaurants</b> is <b>Sake Hana</b>, a town
+            favorite. Serving delicious, authentic Japanese food, you're sure to
+            leave replenished. The staff is friendly and are quick to respond to
+            any changes. Be careful not to eat too much here, because it's very
+            easy to do with their large portions. Enjoy! </p>
+          <br>
+          <p><img src="images/baystate.jpg" alt="image of Bay State concert area"
+
+              id="logo" style="float: left; width: 130px; height: 130px; margin-right: 15px;">
+            One of my favorite <b>places to hang out</b> is the <b>Bay State
+              Commons</b>. This plaza has many stores and restaurants including
+            a <b>Panera Bread</b>, <b>Roche Brothers</b>, and <b>Boston
+              Interiors</b>, making it somewhere you can get everything you
+            need. However, this isn't what makes the Commons so great. The large
+            green space is truly the highlight. Concerts, block parties, and
+            town-wide movie nights are some of the things that occur here,
+            creating a bonding experience for the town. </p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
@@ -30,11 +48,10 @@
           <!-- start of side column: insert your navigation menu, etc, here -->
           <div id="tswcssbuttons">
             <ul>
+              <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/index.html">Home</a></li>
               <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/mytown.html">My
                   Town</a></li>
-              <li><a href="http://www.all%20about%20nitya.com/sitemap.html">My
-                  Interests</a></li>
-              <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/index.html">Home</a><br>
+              <li><a href="random.com">My Interests</a><br>
               </li>
             </ul>
           </div>
