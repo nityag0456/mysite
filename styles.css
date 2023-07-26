@@ -4,6 +4,10 @@ img {
   height: auto;
 }
 
+body {
+  background-color: #f4c2c2;
+}
+
 input, select, button, textarea {
   max-width: 100%;
 }
@@ -16,14 +20,14 @@ div#tswsidecol {
   float: right;
   width: 20%;
   color: black;
-  background-color: #ffccff;
+  background-color: #f4c2c2;
 }
 
 div#tswcontent {
   float: right;
   width: 80%;
   color: black;
-  background-color: #ffccff;
+  background-color: #f4c2c2;
 }
 
 @media only screen and ( max-width : 629px ) {
@@ -43,8 +47,7 @@ div#tswcontproper {
 }
 
 div#tswcontainer {
-  color: ;
-  background-color: white;
+  background-color: #f4c2c2;
 }
 
 div#tswsideproper, div#tswothersideproper {
@@ -54,12 +57,16 @@ div#tswsideproper, div#tswothersideproper {
 
 div#tswheader {
   color: black;
-  background-color: #ffccff;
+  background-color: #f4c2c2;
 }
 
 div#tswfooter {
   color: black;
-  background-color: #ffccff;
+  background-color: #f4c2c2;
+}
+
+div#tswsidecol {
+  background-color: #f4c2c2;
 }
 
 img {
@@ -68,8 +75,9 @@ img {
 
 #logo {
   display: block;
-  margin-left: auto;
+  margin-left: 1px;
   margin-right: auto;
+  margin-top: 1px;
 }
 
 body {

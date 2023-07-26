@@ -48,10 +48,10 @@
           <!-- start of side column: insert your navigation menu, etc, here -->
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/index.html">Home</a></li>
+              <li><a href="file:///Z:/index.html">Home</a></li>
               <li><a href="file:///C:/Users/ngundamaraju/Desktop/mysite/mytown.html">My
                   Town</a></li>
-              <li><a href="random.com">My Interests</a><br>
+              <li><a href="http://127.0.0.1:5500/numgame.html">Number Game</a><br>
               </li>
             </ul>
           </div>
