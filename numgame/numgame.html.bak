@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NumGame</title>
+    <link rel="stylesheet" href="numgame.css">
+</head>
+<body onload="loadGame()">
+   <h1>Guess the Number!</h1> 
+   <p>How to Play:</p>
+   <p> 
+    <ol>
+        <li> Enter a number into the bar</li>
+        <li> Click the guess button</li>
+        <li> If your number is too small or too large, it will say so</li>
+        <li> The game ends when you get it correct!</li>
+     </ol>
+   </p>
+   <br>
+
+   <label>Guess </label>
+   <input id="guess" type="number" min="0">
+   <button onclick="makeGuess()">GUESS</button>
+
+   <br/>
+
+   <p id="report">Start of Report</p>
+
+   <script src="numgame.js"></script>
+</body>
+</html>

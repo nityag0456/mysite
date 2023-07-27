@@ -20,7 +20,8 @@
           <p>Here, you can learn all about me, such as my town and my interests.
           </p>
           <p> I am 17 years old and a rising senior at Westborough High School.
-            I've lived in Westborough my entire life, and </p>
+            I've lived in Westborough my entire life, allowing me to have lots
+            of insight on places in the town.</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
@@ -29,9 +30,9 @@
           <div id="tswcssbuttons">
             <ul>
               <li><a href="file:///Z:/index.html">Home</a></li>
-              <li><a href="file:///Z:/mytown.html">My
-                  Town</a></li>
-              <li><a href="http://127.0.0.1:5500/numgame.html">Number Game</a><br>
+              <li><a href="file:///Z:/mytown.html">My Town</a></li>
+              <li><a href="Z:/numgame/numgame.html">Number
+                  Game</a><br>
               </li>
             </ul>
           </div>
