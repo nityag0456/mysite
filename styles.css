@@ -6,6 +6,8 @@ img {
 
 body {
   background-color: #f4c2c2;
+  background-image: linear-gradient(0deg, #f4c2c2, #f6eeee);
+  height:1000px;
 }
 
 input, select, button, textarea {
@@ -20,14 +22,12 @@ div#tswsidecol {
   float: right;
   width: 20%;
   color: black;
-  background-color: #f4c2c2;
 }
 
 div#tswcontent {
   float: right;
   width: 80%;
   color: black;
-  background-color: #f4c2c2;
 }
 
 @media only screen and ( max-width : 629px ) {
@@ -47,7 +47,6 @@ div#tswcontproper {
 }
 
 div#tswcontainer {
-  background-color: #f4c2c2;
 }
 
 div#tswsideproper, div#tswothersideproper {
@@ -57,16 +56,13 @@ div#tswsideproper, div#tswothersideproper {
 
 div#tswheader {
   color: black;
-  background-color: #f4c2c2;
 }
 
 div#tswfooter {
   color: black;
-  background-color: #f4c2c2;
 }
 
 div#tswsidecol {
-  background-color: #f4c2c2;
 }
 
 img {
